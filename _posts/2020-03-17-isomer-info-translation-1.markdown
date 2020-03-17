@@ -32,7 +32,7 @@ Source: https://bbs.nga.cn/read.php?tid=16289141
     - Zombies do not move out of the area. However they will aggro near by echelons.
     - Any echelon will be able to handle mobs in this area but the points are low.
     - After switching on two control tower 2 the area will be sanitised temporarily. This has a cooldown of 3 turns.
-    - Sanitation tower can be blown up for 10k
+    - Sanitation tower can be blown up for 10k (note SKK this will deduct karma points IRL)
 4. KCCO area; Yellow Area
     - The four helipads spawn KCCO enemies. 50% of the time they spawn cyclops with evasion.
     - Note the CE varies between 20 and 60k.
