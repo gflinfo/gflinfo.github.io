@@ -2,8 +2,12 @@
 layout: post
 title:  "Isomer Info Translation 1"
 date:   2020-03-16 20:00:00 +1000
-categories: jekyll update
+categories: isomer rankings
 ---
+
+** Disclaimer **
+This is a raw translation of the original material. A lot of things can potentially change between the CN and EN
+rankings event.
 
 Source: https://bbs.nga.cn/read.php?tid=16289141
 
@@ -13,7 +17,7 @@ Source: https://bbs.nga.cn/read.php?tid=16289141
 
 1. Helipads (including heavy helipads); Red Area
     - High probability to spawn paradeus enemies and low probability to spawn zombies.
-    - Mid to late game they spawn enemise with force field. It is recommended to station HOC around this area.
+    - Mid to late game they spawn enemise with force shield. It is recommended to station HOC around this area.
     - We'll need to cap 1 heavy helipad in order to deploy 3 HOC. However, all the rest can be kept to farm enemy spawns.
 2. Supply line area; Blue Area
     - The center of the supply area is marked with a star. There's a control tower on it. The control
@@ -65,7 +69,7 @@ I personally believe a good echelon composition is 3 AR 6 RF + double jupiter.
 ### HOC
 HOCs are considered the MVP of this event. Anywhere 2b14 can reach is considered our holy sanctum. With fire support, RF
 team has little concern on how to deal with strelete and survive. This lowers the composition design considerably. Of
-course when it gets to mid and late game, BGM and AGS are crucial for dealing with units that have strong force field.
+course when it gets to mid and late game, BGM and AGS are crucial for dealing with units that have strong force shield.
 
 BGM and AGS needs to be enhanced moderately. 2B14 needs to be enhanced considerably.
 
@@ -85,7 +89,7 @@ The below reference echelons
 
 Reference Echelons (No dupe) (Slightly outdated)
 
-Of these echelons, the 2 AR should be changed to grenade + SG + forcefield. The echelon mixed with MG should be changed
+Of these echelons, the 2 AR should be changed to grenade + SG + shield. The echelon mixed with MG should be changed
 to pure RF.
 
 From echelon 1 to 10:
