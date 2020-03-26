@@ -1,0 +1,176 @@
+---
+layout: post
+title:  "A(nother) guide for 10-4e grape drag"
+date:   2020-03-25 20:00:00 +1000
+categories: farming
+---
+
+For 10-4E grape drag, there's a few key requirements.
+- Crit chance of 100%
+- FP * Crit Damage * 0.85 >= 534 (Cyclop's HP, per link)
+- FP * 0.85 * 45 >= 9000 (Hydra's HP, per link. Almost never an issue)
+- Certain ROF threshold (calico highly recommended)
+- After that, stack more ROF and accuracy.
+
+A note before I dive into detail for each of them. The above requirements
+mostly come from the need to one shot cyclops with Grape. The easiest way
+to do that is to ensure 100% crit chance and pump FP high enough. After that,
+stack acc and rof to reduce damage (rof preferrably)
+
+## Layout
+
+Grape on position 2. Position 3 will take some scratch damage. Occasional grenade damage on pos 4 and 5.
+![layout](/assets/10-4e-guide/fp1.png)
+
+## Crit chance of 100%
+
+This is an easy one so let's just get it out of the way.
+
+If you have a gold max calibrated and enhanced VFL:
+1. RF has base crit chance of 40%
+2. Maxed VFL is 48%
+3. 100 / (40 + 48) = 1.1363636... ~= 1.14
+
+So with a gold maxed VFL, you need 14% crit buff. Literally (correct me
+if I'm wrong) any doll with crit buff tile can achieve this:
+- PPK
+- Python
+- 5-7
+- Contender
+- Nagant Revolver
+
+You'll need one of the above. This is probably the most flexible spot. If
+you don't have a fully maxed out VFL, plug in the numbers and see which one
+to use.
+
+## FP requirement
+
+Thing to note here, any FP more beyond the minimum is waste.
+
+```
+FP * Crit Damage * 0.85 >= 534 (Cyclop's HP, per link)
+```
+
+This one will be different for everyone as different fairies of different
+rarity and levels will have different FP / Crit Dmg buff.
+
+Essentially:
+
+FP buff >= 629 / FP / Crit Damage
+
+So taking the following example. With a 4* lvl 94 command fairy
+
+![4* command](/assets/10-4e-guide/fp1.png)
+
+Grape has 198 dmg and 199% + 25% crit damage (with maxed gold cape).
+
+Plugging in the numbers: 629 / 198 (FP) / 2.24 (crit dmg 1.99 + 0.25) = 1.41819
+So I need to plug in 42% FP buff to reliably one shot cyclops.
+
+Note, the stats displayed already factors in the fairy buff.
+
+![4* mortar](/assets/fp2.png)
+
+Grape has 221 dmg and 150% + 25% crit damage (with maxed gold cape).
+
+Plugging in the numbers: 629 / 221 (FP) / 1.75 (crit dmg 1.50 + 0.25) = 1.62637
+So I need to plug in 63% FP to reliably one shot cyclops.
+
+3* command fairy is usually what's recommended for the beginning requirement.
+As you can see command fairy is pretty good for filling in the damage requirement
+but it's not exactly impossible with other fairies.
+
+![66% buff](assets/fp1-1.png)
+
+## ROF requirement
+
+This one I'm currently less clear on, so if anyone has additional info to fill in
+please let me know.
+
+Currently, what is known is lvl 100 grape with calico + another ROF buffer is enough.
+This 53 rof, or rather 54% rof buff. Just chuck calico + someone else in and you should be fine.
+
+![rof and cyclops](assets/cyclops.png)
+
+There are 3 of these mobs on your farming route.
+1. Grape will target the top most cyclop first
+  - If Grape 1 shot kills it with no misses, you are safe. /the end.
+  - However, if Grape misses any of the 5 bullets she shoots she will need to shoot at it again.
+2. When Grape shoots the top cycolops twice, she will need to one shot the second cyclops if she's to clear the cyclops before hydras.
+3. If Grape fails to kill BOTH cyclops in one shot, she will skip the third cyclops and start shooting
+the top hydra. There's a good chance the last cyclop will launch a grenade.
+4. It's not the end of the world if the last cyclop launches a grenade as it'll target either position 5 or 3.
+It'll be another bit of RNG whether grape will be hit on position 2 or not.
+
+This is the node you want to watch in terms of ROF buff. These are the symptoms of not enough ROF:
+- Two shotting first cyclops and one shotting second, grape starts shooting the hydras.
+- One shotting first cyclops and two shotting second cyclops, grape starts shooting the hydras.
+
+If you have enough FP x ROF, you might be able to kill the cyclops in scenario 4 before the grenade is launched.
+
+I have not yet seen all three cyclops cleared when first 2 needed 2 shots to kill each.
+
+## Accuracy requirement
+
+Before we start, keep in mind that it is IMPOSSIBLE to not miss. acc / (acc + eva) is asymptotic. You can get
+close to 100% but you will never be. As well, it has diminishing returns.
+
+Stacking accuracy a bit can be helpful. ideally 100% or above.
+
+Again, calico is really good here as she also buffs accuracy.
+
+Here's some maths to put things into perspective.
+
+Let's take an arbitrary 140% acc buff for example (calico/m1911 mod/k5)
+
+95 base acc becoming 228. Cyclops have eva of 15
+```
+Your hit chance = 228/(228+15) = 93.8%
+```
+
+For grape to "1 shot" the cyclops, all 5 bullets have to land.
+This means that the chance to 1 shot the cyclops is:
+```
+0.938 ^ 5 = 0.7271815 = 73%
+```
+
+As previous section mentions, if you miss "1 shot" on first 2 cyclops, you are likely to eat a 'nade.
+(1-0.73) ^ 2 = 0.07 = 7%
+
+So in about every 5 runs, you are likely to eat a grenade.
+
+At the end of the day, it just helps you decrease damage taken / reduce repairs. Nothing too critical here.
+
+## Example comps
+
+Before I begin, again Calico is a given.
+
+So let's take for example, starting with a 4* command fairy from before:
+
+![4* command](/assets/10-4e-guide/fp1.png)
+
+We need 42% FP buff.
+
+If we use Python as the crit buffer, she has 30% damage. I'll only need another 12% after that. That's literally
+any FP buffer. From this point I can plug in K5 / PX4 / Welrod / even Makarov. I will throw in M1911 to further
+buff ROF/ACC for good measure.
+
+x      | x     | x
+Calico | M1911 | x
+Python | Grape | K5
+
+If we use PPK as the crit buffer, she has no dmg buff. She can only sit on 1 or 3 to buff Grape and I really don't
+want her taking scrat dmg as she's made of paper. (PPK, I'm telling you. no means no!) This means I need dmg buffer
+on 5 and 3 enough for 42%. Spitfire (30%) and Welrod (20%) would do. As well it gets some decent acc/rof buff.
+As well, Welrod is tanky.
+
+x      | x        | x
+Calico | Spitfire | x
+PPK    | Grape    | Welrod
+
+In a pinch, I can swap Welrod above with Makarov for repairing scratch damage too.
+
+As you can see, by mixing and matching HG buffs this way, one can drag quite a wide range of HGs to level 100.
+
+
+
