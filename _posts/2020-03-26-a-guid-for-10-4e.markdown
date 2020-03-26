@@ -90,7 +90,7 @@ please let me know.
 Currently, what is known is lvl 100 grape with calico + another ROF buffer is enough.
 This 53 rof, or rather 54% rof buff. Just chuck calico + someone else in and you should be fine.
 
-![rof and cyclops](assets/cyclops.png)
+![rof and cyclops](assets/10-4e-guide/cyclops.png)
 
 There are 3 of these mobs on your farming route.
 1. Grape will target the top most cyclop first
