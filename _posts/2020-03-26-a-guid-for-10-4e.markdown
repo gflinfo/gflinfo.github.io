@@ -19,8 +19,8 @@ stack acc and rof to reduce damage (rof preferrably)
 
 ## Layout
 
-Grape on position 2. Position 3 will take some scratch damage. Occasional grenade damage on pos 4 and 5.
-![layout](/assets/10-4e-guide/fp1.png)
+Grape on position 2. Position 3 will take some scratch damage. Occasional grenade damage on pos 4 and 5.  
+![layout](/assets/10-4e-guide/fp1-1.png)
 
 ## Crit chance of 100%
 
@@ -69,7 +69,7 @@ So I need to plug in 42% FP buff to reliably one shot cyclops.
 
 Note, the stats displayed already factors in the fairy buff.
 
-![4* mortar](/assets/fp2.png)
+![4* mortar](/assets/10-4e-guide/fp2.png)
 
 Grape has 221 dmg and 150% + 25% crit damage (with maxed gold cape).
 
@@ -80,7 +80,7 @@ So I need to plug in 63% FP to reliably one shot cyclops.
 As you can see command fairy is pretty good for filling in the damage requirement
 but it's not exactly impossible with other fairies.
 
-![66% buff](assets/fp1-1.png)
+![66% buff](/assets/10-4e-guide/fp1-1.png)
 
 ## ROF requirement
 
