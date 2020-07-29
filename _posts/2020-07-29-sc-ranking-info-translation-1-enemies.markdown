@@ -7,6 +7,7 @@ categories: farming
 
 ** Disclaimer **
 Source: [https://nga.178.com/read.php?tid=18370205](https://nga.178.com/read.php?tid=18370205)
+With recommendations from Ceia.
 
 ## SF
 
