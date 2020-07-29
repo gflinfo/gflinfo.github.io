@@ -8,8 +8,6 @@ categories: farming
 ** Disclaimer **
 Source: [https://nga.178.com/read.php?tid=18370205](https://nga.178.com/read.php?tid=18370205)
 
-![isomer](/assets/sc-mobs/01-isomer.png)
-
 ## SF
 
 ### Pyxis
@@ -35,30 +33,30 @@ Source: [https://nga.178.com/read.php?tid=18370205](https://nga.178.com/read.php
 ![isomer](/assets/sc-mobs/02-isomer.gif)
 
 ### Roarer
+![roarer](/assets/sc-mobs/03-roarer.png)
 - This is a normal mob. Purple will deal 45x damage to it
 - Its armor is relatively low, a bit like Manticores.
 - Immune to stuns.
 - It will taunt attack when it glows blue. The mechanics is a bit like Contender's skill.
-![roarer](/assets/sc-mobs/03-roarer.png)
-However, skills that has its own targeting mechanism will override it.
+![roarer](/assets/sc-mobs/03-roarer.gif)
+- However, skills that has its own targeting mechanism will override it.
 ![roarer](/assets/sc-mobs/04-roarer.gif)
-SMG and HG can trigger the blue ball attack by walking up to it. When it raises its hand above its head, walking away will cause the attack to miss.
+- SMG and HG can trigger the blue ball attack by walking up to it. When it raises its hand above its head, walking away will cause the attack to miss.
 ![roarer](/assets/sc-mobs/05-roarer.gif)
-Take note that moving away does not interrupt the attack. So if the kiting unit moves away too early, it can potentially cause the attack to splah the back line.
+- Take note that moving away does not interrupt the attack. So if the kiting unit moves away too early, it can potentially cause the attack to splah the back line.
 ![roarer](/assets/sc-mobs/06-roarer.gif)
-If the dolls are hit by the blue ball attack, its movement speed and rate of fire is decreased.
+- If the dolls are hit by the blue ball attack, its movement speed and rate of fire is decreased.
 ![roarer](/assets/sc-mobs/07-roarer.gif)
-Roarer's blue ball attack can miss and hit empty air.
+- Roarer's blue ball attack can miss and hit empty air.
 ![roarer](/assets/sc-mobs/08-roarer.gif)
-The blue ball attack link splashes, so shield can work effectively against it. The blue ball attack deals 80% of its firepower stats. It mostly deals around 30 to 40 damage per link in SC.
+- The blue ball attack link splashes, so shield can work effectively against it. The blue ball attack deals 80% of its firepower stats. It mostly deals around 30 to 40 damage per link in SC.
 ![roarer](/assets/sc-mobs/09-roarer.gif)
-Normal attack is melee and doesn't seem to do much. Taunt often fails to block the ones walking down side lanes.
-
-It can replenish its own force field. It replenishes 300 at a time. HOC can deal with these units quite easily. However, if the fight drags on for too long without HOC, they can become hard to kill.
+- Normal attack is melee and doesn't seem to do much. Taunt often fails to block the ones walking down side lanes.
+- It can replenish its own force field. It replenishes 300 at a time. HOC can deal with these units quite easily. However, if the fight drags on for too long without HOC, they can become hard to kill.
 
 
 ### Thunder
-![thunder](/assets/sc-mobs/10-thunder.gif)
+![thunder](/assets/sc-mobs/10-thunder.png)
 - This enemy is an elite. Purple does not do :bigd:
 - It has 100+ armor. RF would not have much problem with it, but desert eagle would struggle.
 - It does not come with other enemy in SC.
@@ -84,11 +82,41 @@ It can replenish its own force field. It replenishes 300 at a time. HOC can deal
 - 0 AP. They do not have armor penetration rating. However, whether shotguns are suitable in tanking them are something else altogether.
 
 
+## KCCO
 
+### Orthos
 
+A.k.a doggos.
 
+![orthos](/assets/sc-mobs/15-beast.png)
+- KCCO's hound at the front in the usual dog/archer comp. It has relatively low hp and has 10 evasion.
+- When the battle starts, the first batch of dogs will attack once and deploy shield. Try not to let the backline get hit.
+- Normal attack ignores armor. 140 accuracy.
+- Shield has 3s icd, a start up animation of 1s, duration of 6s and a cooldown of 8s. So there's a 2s window without shield.
+- Don't use pure FP skills, such as grizzly and sop nade, when the shield is active. Wait until the shield is down then nuke it.
+- The HP shield strength is equal to 0.8% of the current HP. In the ex ranking  
+  Orthos + cyclops comp have HP value of 3740x5. Full hp shield is 150  
+  4 Orthos + 3 Kentaoros comp have HP value of 2800x5. Full hp shield is 112  
+  3 Orthos + 4 Kentaoros comp have HP value of 3740x5. Full hp shield is 150
+- When the HP shield is exausted, the dog will be hit with a high value link based damage. The image shows 7700 damage to the Orthos itself.
+![orthos](/assets/sc-mobs/16-beast.jpg)
+- Usually there are 3 ways to approach this enemy
+  1. decrease the HP value before the HP shield is deployed
+  2. Increase the attack speed when HP shield is deployed
+  3. Ignore them and attack the backline
+- About reducing its HP before the HP shield is active
+  If the echelon can burst enough damage at the start, the fight will be a lot easier. K2 is well positioned to burst at start and attack in multi hits. 
+  If day battle, MG is worth considering
+- Note, if the dogs are stunned when the HP shield is deployed, it will not damage itself when the HP shield is depleted.
+- About the attack frequency, use ROF buff tdolls and/or dolls that attack multiple hits. SMG/HG equipped with PEQ should also be considered. They can help whittle down the shield while buffing ROF for others.
+- In this ranking event, most relies on HOC + RFB/Hanyang to deal with them.
 
+### Kentaoros
 
+A.k.a archers.
 
-
-
+- These enemies have range even further than SWAP Jaegers. So our backline will get hit while out of range sometimes.
+- Two ways to make them enter attack range
+  1. Have dolls on the last two columns and move forward when the archers are close enough.
+  2. Only have dolls on the last column
+- Rocket bomb have an icd of 5s, cd of 6s and a warning sign of 1.5s
