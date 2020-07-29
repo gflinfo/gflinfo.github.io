@@ -107,8 +107,8 @@ A.k.a doggos.
 - About reducing its HP before the HP shield is active
   If the echelon can burst enough damage at the start, the fight will be a lot easier. K2 is well positioned to burst at start and attack in multi hits. 
   If day battle, MG is worth considering
-- Note, if the dogs are stunned when the HP shield is deployed, it will not damage itself when the HP shield is depleted.
-![orthos](/assets/sc-mobs/17-beast.png)
+- Note, if the dogs are stunned when the HP shield is deployed, it will not damage itself when the HP shield is depleted.  
+![orthos](/assets/sc-mobs/17-beast.gif)
 - About the attack frequency, use ROF buff tdolls and/or dolls that attack multiple hits. SMG/HG equipped with PEQ should also be considered. They can help whittle down the shield while buffing ROF for others.
 - In this ranking event, most relies on HOC + RFB/Hanyang to deal with them.
 
@@ -124,7 +124,7 @@ A.k.a archers.
 - Rocket bomb have an icd of 5s, cd of 6s and a warning sign of 1.5s  
   It deals 60% of its FP in link based splash damage. It's usually around 17.  
   Not sure about the dot. Usually 5 points of link based splash damage.
-- It attacks relatively slowly as it comes in range. This turns into a disgusting situation where the ground is all covered by the warning sign.
+- It attacks relatively slowly as it comes in range. This turns into a disgusting situation where the ground is all covered by the warning sign.  
 ![archers](/assets/sc-mobs/19-archer.gif)
 - P90's illusion can soak up 1 round of these rockets. Shield's also relatively effective.
 - They are not really tough, so can use dolls that attack backline directly.
