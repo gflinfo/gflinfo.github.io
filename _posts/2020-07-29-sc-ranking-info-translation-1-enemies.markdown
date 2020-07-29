@@ -160,8 +160,8 @@ uses electricity to attack first cycle, they can be tanked with SGs, usually tau
 - This is not an elite and will be dealt 45x damage by grape.
 - Immune to stun
 - 10 evasion so MG is not an option in the night.
-- Damage reduction have an icd of 4s, cd of 8s, start up animation of 1s and duration of 5s. It basically will reduce damage when it stops walking.
-- Damage is 80%. Grape can use the 1s start up time to one shot it. Otherwise, one shot it regardless with enough FP buff.
+- Damage reduction skill have an icd of 4s, cd of 8s, start up animation of 1s and duration of 5s. It will be activated when it comes in contact with a target, i.e. taunt/twin/tdoll.
+- Damage reduction is 80%. Grape can use the 1s start up time to one shot it. Otherwise, one shot it regardless with enough FP buff.
 - Apparently stun can interrupt the damage reduction.
 - Normal attack electrifies the dolls and deal 30% FP in link based splash damage. It's usually around 10 give or take.
   The full attack hits 6 times so one round of shield skill may not be enough.
