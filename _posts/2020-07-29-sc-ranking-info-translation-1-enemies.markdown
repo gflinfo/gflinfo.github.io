@@ -108,6 +108,7 @@ A.k.a doggos.
   If the echelon can burst enough damage at the start, the fight will be a lot easier. K2 is well positioned to burst at start and attack in multi hits. 
   If day battle, MG is worth considering
 - Note, if the dogs are stunned when the HP shield is deployed, it will not damage itself when the HP shield is depleted.
+![orthos](/assets/sc-mobs/17-beast.png)
 - About the attack frequency, use ROF buff tdolls and/or dolls that attack multiple hits. SMG/HG equipped with PEQ should also be considered. They can help whittle down the shield while buffing ROF for others.
 - In this ranking event, most relies on HOC + RFB/Hanyang to deal with them.
 
@@ -115,8 +116,48 @@ A.k.a doggos.
 
 A.k.a archers.
 
+![archers](/assets/sc-mobs/18-archer.png)
 - These enemies have range even further than SWAP Jaegers. So our backline will get hit while out of range sometimes.
 - Two ways to make them enter attack range
   1. Have dolls on the last two columns and move forward when the archers are close enough.
   2. Only have dolls on the last column
-- Rocket bomb have an icd of 5s, cd of 6s and a warning sign of 1.5s
+- Rocket bomb have an icd of 5s, cd of 6s and a warning sign of 1.5s  
+  It deals 60% of its FP in link based splash damage. It's usually around 17.  
+  Not sure about the dot. Usually 5 points of link based splash damage.
+- It attacks relatively slowly as it comes in range. This turns into a disgusting situation where the ground is all covered by the warning sign.
+![archers](/assets/sc-mobs/19-archer.gif)
+- P90's illusion can soak up 1 round of these rockets. Shield's also relatively effective.
+- They are not really tough, so can use dolls that attack backline directly.
+- In most battles, its threat level is usually determined by how thick the meat shield at the front is.
+
+
+### Minotaur
+
+![minotaur](/assets/sc-mobs/20-tesla-trooper.png)
+- This is not an elite and will be dealt 45x damage by grape.
+- Immune to stun
+- They have relatively high shield value. 150 hp in the ex ranking map.
+- 10 evasion so MG is not an option in the night.
+- Damage reduction have an icd of 4s, cd of 8s, start up animation of 1s and duration of 5s. It basically will reduce damage when it stops walking.
+- Damage is 80%. Grape can use the 1s start up time to one shot it. Otherwise, one shot it regardless with enough FP buff.
+- Apparently stun can interrupt the damage reduction.
+- Normal attack electrifies the dolls and deal 30% FP in link based splash damage. It's usually around 10 give or take.
+  The full attack hits 6 times so one round of shield skill may not be enough.
+- It's usually not possible to dodge its attack by moving left. It's usually done by moving up or down, but this will let them through.
+- If it attacks the frontline on the front column, upon retreat the tdoll, these will not be able to hit dolls on the back column
+- The electric attack does not ignore armor, so M4 and SG take very little damage from it.
+![minotaur](/assets/sc-mobs/21-tesla-trooper.gif)
+- Grenade bombardment has an icd of 16s. It only happen once per battle. The grenades deal 80% of its FP in link based splash damage. Each round is around 30 to 40 damage. Each minotaur will hit 4 squares.
+- It's usual cycle is
+  1. walk up
+  2. deploy shield
+  2. electrify
+  3. grenade
+  4. deploy shield
+  4. electrify
+  5. deploy shield
+  6. repeat 4 and 5
+![minotaur](/assets/sc-mobs/22-tesla-trooper.gif)
+- Killing them at the start of the battle before they get close is the way to go. This is how they are mostly deal with in this
+  ranking event. Otherwise, grape skillshot when their shield is down / strong FP buff is another option. Usually they should not be allowed to let the grenade off.
+
