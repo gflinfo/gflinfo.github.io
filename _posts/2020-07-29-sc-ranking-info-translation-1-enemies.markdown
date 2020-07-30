@@ -9,7 +9,7 @@ categories: farming
 Source: [https://nga.178.com/read.php?tid=18178865](https://nga.178.com/read.php?tid=18178865)
 With recommendations from Ceia.
 
-![map](/assets/sc-maps/maps.png)
+![map](/assets/sc-maps/map.png)
 
 
 ## Map overview.
