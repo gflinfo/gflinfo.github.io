@@ -31,6 +31,7 @@ With recommendations from Ceia.
 ## KCCO area. The lower left yellow area.
 1. The enemy spawns include the new doggos + archer units. Hydras, aegis/cerynitis. Every single helipad in the area will spawn enemies
 2. HQ. It's same as Isomer where the functionality is unknown other than that it provides 10k points.
-3. Enemy Railgun. The name is Argonauts - Vela. The name sounds pretty cool, and it's also pretty impressive in action. Though it's only 80k CE which is not a lot. It's support area is like our friendly rail gun, a range of 4. However Argonauts have a minimum range of 2, so she does not support in the immediate range. Currently there's a bug with the rail gun picking up the target. If you can't see her, she will not provide support. Specifically the HOC support sign on the enemy's head shows whether Argonauts will provide support or not. However, note that resetting client at end of turn combat will cause the Argonauts to provide support.
+3. Enemy Railgun. The name is Argonauts - Vela. The name sounds pretty cool, and it's also pretty impressive in action. Though it's only 80k CE which is not a lot. It's support area is like our friendly rail gun, a range of 4. However Argonauts have a minimum range of 2, so she does not support in the immediate range.  
+   Currently there's a bug with the rail gun picking up the target. If you can't see her, she will not provide support. Specifically the HOC support sign on the enemy's head shows whether Argonauts will provide support or not. However, note that resetting client at end of turn combat will cause the Argonauts to provide support.
 
 Opening to come...
