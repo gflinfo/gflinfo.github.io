@@ -8,43 +8,43 @@ categories: ranking
 ## Pre-spawned Enemies
 Not much to say about these, they should all be fairly easy.
 
-35207 CE
+35207 CE<br />
 20x Orthrus, 15x Centaurus<br />
 ![09](/assets/sc-enemy-comps/09.gif)
 
-32030 CE
+32030 CE<br />
 1x Recce Centre, 20x Cerynitis<br />
 ![10](/assets/sc-enemy-comps/10.gif)
 
-32236 CE
+32236 CE<br />
 3x Minotaurus<br />
 ![11](/assets/sc-enemy-comps/11.gif)
 
-35828 CE
+35828 CE<br />
 2x Gladiator, 10x Gunner<br />
 ![12](/assets/sc-enemy-comps/12.gif)
 
-74860 CE
+74860 CE<br />
 1x Patroller<br />
 ![13](/assets/sc-enemy-comps/13.gif)
 
-9577 CE
+9577 CE<br />
 15x Strelet, 2x Rodelero<br />
 ![14](/assets/sc-enemy-comps/14.gif)
 
-16992 CE
+16992 CE<br />
 40x Strelet<br />
 ![15](/assets/sc-enemy-comps/15.gif)
 
-47420 CE
+47420 CE<br />
 15x Strelet, 2x Uhlan<br />
 ![16](/assets/sc-enemy-comps/16.gif)
 
-14337 CE
+14337 CE<br />
 9x Rodelero<br />
 ![17](/assets/sc-enemy-comps/17.gif)
 
-24354 CE
+24354 CE<br />
 15x Strelet, 3x Doppelsöldner<br />
 ![18](/assets/sc-enemy-comps/18.gif)
 
@@ -52,29 +52,29 @@ Not much to say about these, they should all be fairly easy.
 
 ### Unarmoured
 
-40174 CE
+40174 CE<br />
 16x Cyclops SG, 20x Orthrus (enemies very far offscreen)<br />
 ![23](/assets/sc-enemy-comps/23.gif)
 
-40572 CE
+42050 CE<br />
 29x Centaurus, 8x Cyclops AR<br />
 ![24](/assets/sc-enemy-comps/24.gif)
 
-38932 CE
+38932 CE<br />
 16x Centaurus, 15x Orthrus<br />
 ![25](/assets/sc-enemy-comps/25.gif)
 
 ### Armoured
 
-45905 CE
+45905 CE<br />
 9x Aegis, 5x Hydra<br />
 ![27](/assets/sc-enemy-comps/27.gif)
 
-40287 CE
+40287 CE<br />
 9x Aegis, 15x Cerynitis<br />
 ![32](/assets/sc-enemy-comps/32.gif)
 
-41547 CE
+41547 CE<br />
 3x Minotaurus<br />
 ![33](/assets/sc-enemy-comps/33.gif)
 
@@ -116,15 +116,15 @@ Not much to say about these, they should all be fairly easy.
 ### Smashers
 All escort zombies have low stats.
 
-83918 CE
+83918 CE<br />
 1x Smasher, 20x Unarmed Zombie<br />
 ![44](/assets/sc-enemy-comps/44.gif)
 
-80530 CE
+80530 CE<br />
 1x Smasher, 10x Armed Zombie<br />
 ![45](/assets/sc-enemy-comps/45.gif)
 
-83928 CE
+83928 CE<br />
 1x Smasher, 10x Unarmed Zombie, 10x Armed Zombie<br />
 ![46](/assets/sc-enemy-comps/46.gif)
 
@@ -132,52 +132,52 @@ All escort zombies have low stats.
 
 ### Turn 1-3
 
-83711 CE *on turn 3*
+83711 CE *on turn 3*<br />
 1x Patroller<br />
 ![47](/assets/sc-enemy-comps/47.gif)
 
-61823 CE *on turn 3*
+61823 CE *on turn 3*<br />
 5x Rodelero, 3x Gladiator<br />
 ![48](/assets/sc-enemy-comps/48.gif)
 
-53828 CE *on turn 3*
+53828 CE *on turn 3*<br />
 4x Doppelsöldner, 15x Strelet<br />
 ![49](/assets/sc-enemy-comps/49.gif)
 
 ### Turn 4-6
 
-55484 CE *on turn 6*
+55484 CE *on turn 6*<br />
 6x Rodelero, 2x Gladiator<br />
 ![50](/assets/sc-enemy-comps/50.gif)
 
-56414 CE *on turn 6*
+56414 CE *on turn 6*<br />
 14x Gunner, 10x Strelet, 1x Gladiator<br />
 ![51](/assets/sc-enemy-comps/51.gif)
 
-30920 CE *on turn 6*
+30920 CE *on turn 6*<br />
 25x Abandoned Isomer<br />
 ![52](/assets/sc-enemy-comps/52.gif)
 
 ### Turn 7-9
 
-43435 CE *on turn 9*
+43435 CE *on turn 9*<br />
 25x Abandoned Isomer<br />
 ![53](/assets/sc-enemy-comps/53.gif)
 
-47145 CE *on turn 9*
+47145 CE *on turn 9*<br />
 15x Abandoned Isomer, 30x Strelet<br />
 ![54](/assets/sc-enemy-comps/54.gif)
 
-58434 CE *on turn 9*
+58434 CE *on turn 9*<br />
 5x Rodelero, 15x Gunner, 15x Strelet<br />
 ![55](/assets/sc-enemy-comps/55.gif)
 
 ### Isomer White
 
-96278 CE
+96278 CE<br />
 1x Isomer White, 18x Abandoned Isomer<br />
 ![56](/assets/sc-enemy-comps/56.gif)
 
-144717 CE
+144717 CE<br />
 1x Isomer White, 26x Abandoned Isomer<br />
 ![57](/assets/sc-enemy-comps/57.gif)
