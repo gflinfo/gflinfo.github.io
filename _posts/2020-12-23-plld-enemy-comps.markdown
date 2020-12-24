@@ -7,7 +7,7 @@ categories: ranking
 
 ## PL: Labyrinthine Defense Enemy Compositions
 Formation images and composition breakdowns for Polarized Light: Labyrinthine Defense<br />
-Pre-spawns not included due to large number and trivial difficulty<br />
+Non-deathstack pre-spawns not included due to large number and trivial difficulty<br />
 
 ## KCCO
 
@@ -80,30 +80,30 @@ ID 52, Minotaurus leader<br />
 ### Turn 4-6 Spawns
 
 ID 53, Cerynitis leader<br />
-35433 CE Turn 1<br />
-37733 CE Turn 2<br />
-39419 CE Turn 3+<br />
+35433 CE Turn 4<br />
+37733 CE Turn 5<br />
+39419 CE Turn 6+<br />
 15x Cyclops SG, 20x Cerynitis<br />
 ![53](/assets/pl-assets/map1/53.png)
 
 ID 54, Centaurus leader<br />
-36411 CE Turn 1<br />
-38595 CE Turn 2<br />
-40827 CE Turn 3+<br />
+36411 CE Turn 4<br />
+38595 CE Turn 5<br />
+40827 CE Turn 6+<br />
 15x Cyclops AR, 15x Centaurus<br />
 ![54](/assets/pl-assets/map1/54.png)
 
 ID 55, Orthrus leader<br />
-38331 CE Turn 1<br />
-40106 CE Turn 2<br />
-41912 CE Turn 3+<br />
+38331 CE Turn 4<br />
+40106 CE Turn 5<br />
+41912 CE Turn 6+<br />
 12x Orthrus, 20x Cerynitis<br />
 ![55](/assets/pl-assets/map1/55.png)
 
 ID 56, Minotaurus leader<br />
-51543 CE Turn 1<br />
-61176 CE Turn 2<br />
-66443 CE Turn 3+<br />
+51543 CE Turn 4<br />
+61176 CE Turn 5<br />
+66443 CE Turn 6+<br />
 1x Minotaurus, 10x Cyclops SG, 15x Cerynitis<br />
 ![56](/assets/pl-assets/map1/56.png)
 
